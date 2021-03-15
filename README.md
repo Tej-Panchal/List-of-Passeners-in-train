@@ -1,0 +1,2 @@
+# List-of-Passeners-in-train
+This project is about the list of the passengers in the train. In that list they will provide you that passenger's first and last name, Passenger's contact number, Seatnumber and passenger's class  prefrence means, first class,coach class or business class. After that you can also find the passenger by typing last name. If you want to remove passenger you just have to enter the last name of that passenger. And in the last it will give the updated list of  the passenger.
